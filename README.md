@@ -1,16 +1,26 @@
 ## Hi there 👋
+# Helia 
 
-<!--
-**Heliamzadeh/Heliamzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Machine Learning and Data Science engineer with a strong focus on NLP, Transformers, Deep Learning, and advanced analytics.
+Experienced in building reproducible ML pipelines, ensemble models, causal inference workflows, and optimization-driven decision systems.
 
-Here are some ideas to get you started:
+## Core Expertise
+- Machine Learning & Deep Learning (ANN, CNN, RNN, Transformers)
+- NLP (TF-IDF, Word2Vec, BERT, Sentiment Analysis)
+- Ensemble Models (Random Forest, XGBoost, LightGBM)
+- Causal Inference & Experimentation
+- Time-Series Forecasting & Optimization
+- Analytics Engineering & BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+Public projects will be added here.
+
+## Tech Stack
+Python, SQL, R  
+PyTorch, scikit-learn, XGBoost, Statsmodels, Gurobi  
+Pandas, NumPy, NLTK, Matplotlib, Seaborn  
+Power BI, Metabase, VSCode
+
+## Contact
+LinkedIn: (https://www.linkedin.com/in/heliamahmoodzadeh/)
