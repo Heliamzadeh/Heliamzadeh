@@ -7,7 +7,7 @@ Experienced in building reproducible ML pipelines, ensemble models, causal infer
 
 ## Core Expertise
 - Machine Learning & Deep Learning (ANN, CNN, RNN, Transformers)
-- NLP (TF-IDF, Word2Vec, BERT, Sentiment Analysis)
+- NLP (LDA, Word2Vec, BERT, Sentiment Analysis)
 - Ensemble Models (Random Forest, XGBoost, LightGBM)
 - Causal Inference & Experimentation
 - Time-Series Forecasting & Optimization
